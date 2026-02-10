@@ -118,7 +118,7 @@ class _GoogleMapScreeenState extends State<GoogleMapScreeen> {
               onTap: (){
                   print('University Tap event');
               },
-              consumeTapEvents: false
+              consumeTapEvents: true
 
             ),
 
